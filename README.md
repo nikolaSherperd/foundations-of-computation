@@ -10,7 +10,9 @@ Rather than relying on high-level libraries, I focus on implementing and visuali
 
 ### Tier 0: Foundations of Technical Mastery (The Bedrock)
 Total Duration: 9-12 months
+
 Prerequisites: None
+
 Objective: Eliminate abstaction dependency. Achieve mathematical fluency and low-level
 memory mastery
 
