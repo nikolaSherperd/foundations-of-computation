@@ -51,7 +51,7 @@ memory mastery
 
 
 ## 2.2.2 Systems Programming:
-         The C LanguageC is chosen not for its modern popularity, but because it forces the programmer to manage
+         The C Language is chosen not for its modern popularity, but because it forces the programmer to manage
          the machine's resources explicitly.
 ●  Text: The C Programming Language (K&R) 1 remains the de�nitive text for its brevity and
    precision.
