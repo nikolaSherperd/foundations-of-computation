@@ -24,30 +24,30 @@ memory mastery
 
 
 ●  Linear Algebra: The study of vector spaces is the engine of modern computing.
-○  Intuition: The 3Blue1Brown Essence of Linear Algebra series 1 provides the
-   geometric intuition required to visualize transformations.
-○  Rigor: MIT 18.06 (Gilbert Strang) 1 provides the theorem-proof foundation,
-   covering vector spaces, null spaces, eigenvalues, and Singular Value
-   Decomposition (SVD).
-○  Application: Mathematics for Machine Learning (Imperial College London) 1
-   bridges the gap to optimization.
+   ○  Intuition: The 3Blue1Brown Essence of Linear Algebra series 1 provides the
+      geometric intuition required to visualize transformations.
+   ○  Rigor: MIT 18.06 (Gilbert Strang) 1 provides the theorem-proof foundation,
+      covering vector spaces, null spaces, eigenvalues, and Singular Value
+      Decomposition (SVD).
+   ○  Application: Mathematics for Machine Learning (Imperial College London) 1
+      bridges the gap to optimization.
 
 
 ●  Calculus & Optimization: Understanding gradients is non-negotiable for training
    neural networks.
-○  Focus: Multivariate calculus, partial derivatives, the chain rule (backpropagation),
-   and Lagrange multipliers.
+   ○  Focus: Multivariate calculus, partial derivatives, the chain rule (backpropagation),
+      and Lagrange multipliers.
 
 
 ●  Probability & Statistics: The language of uncertainty in robotics and AI.
-○  Focus: Random variables, Bayesian inference, Gaussian distributions, and
-   maximum likelihood estimation.1
+   ○  Focus: Random variables, Bayesian inference, Gaussian distributions, and
+      maximum likelihood estimation.1
 
 
 ●  Discrete Mathematics: The mathematics of digital structures.
-○  Focus: Logic, set theory, combinatorics, graph theory, and proof by induction.
-   Resources include A Walk Through Combinatorics 1 and MIT/Princeton lecture
-   series.
+   ○  Focus: Logic, set theory, combinatorics, graph theory, and proof by induction.
+      Resources include A Walk Through Combinatorics 1 and MIT/Princeton lecture
+      series.
 
 
 ## 2.2.2 Systems Programming:
