@@ -62,7 +62,7 @@ memory mastery
 
 ##  WEEK 1:
 ##  For the first four weeks of this tier, i'd be exploring the following subject matters;
-   The objective is to establish a visual intuitio of vectors and logic... 
+   The objective is to establish a visual intuition of vectors and logic... 
 
 ### Boolean Logic
 Scripts that generate truth tables for complex Boolean expressions. These were written to better understand how symbolic logic maps to computation.
