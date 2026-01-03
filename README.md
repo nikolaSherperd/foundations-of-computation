@@ -62,10 +62,12 @@ memory mastery
    initially, mandating CLI tools (GCC, GDB, Valgrind) to demystify the compilation process.
 
 
-##  WEEK 1:
+##  WEEK 1 - 4 (Mathematical Intuition):
+  
 ##  For the first four weeks of this tier, i'd be exploring the following subject matters;
    The objective is to establish a visual intuition of vectors and logic... 
-
+   End Project: Python truth table generator, Manim visulisation for 2D/3D vector transformations.
+   
 ### Boolean Logic
 Scripts that generate truth tables for complex Boolean expressions. These were written to better understand how symbolic logic maps to computation.
 
