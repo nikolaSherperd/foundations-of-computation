@@ -53,13 +53,16 @@ memory mastery
 
 
 ## 2.2.2 Systems Programming:
-         The C Language is chosen not for its modern popularity, but because it forces the programmer to manage
-         the machine's resources explicitly.
-●  Text: The C Programming Language (K&R) 1 remains the de�nitive text for its brevity and
-   precision.
-●  Key Concepts: Pointers, manual memory management (malloc/free), stack vs. heap
-   representation, and pointer arithmetic. The curriculum explicitly forbids the use of IDEs
-   initially, mandating CLI tools (GCC, GDB, Valgrind) to demystify the compilation process.
+The C Language is chosen not for its modern popularity, but because it forces the programmer to manage the machine's resources explicitly.
+
+
+●  Text: The C Programming Language (K&R) 1              remains the de�nitive text for its brevity and precision.
+
+
+●  Key Concepts: Pointers, manual memory management (malloc/free), stack vs. heap representation, and pointer arithmetic. 
+
+The curriculum explicitly forbids the use of IDEs
+initially, mandating CLI tools (GCC, GDB,Valgrind) to demystify the compilation process.
 
 
 ##  WEEK 1 - 4 (Mathematical Intuition):
